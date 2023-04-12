@@ -1,0 +1,5 @@
+Hello
+
+This is the sample text file to translate this file to AWS.
+
+Thanks
